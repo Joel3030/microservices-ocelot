@@ -2,11 +2,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using identityapi.DTOs;
-using identityapi.Entities;
+using identity.DTOs;
+using identity.Entities;
 using Microsoft.AspNetCore.Http.HttpResults;
 
-namespace identityapi.Services
+namespace identity.Services
 {
     public interface IUserService
     {

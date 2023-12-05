@@ -2,13 +2,13 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using identityapi.DTOs;
-using identityapi.Entities;
-using identityapi.Services;
+using identity.DTOs;
+using identity.Entities;
+using identity.Services;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Middleware;
 
-namespace identityapi.services
+namespace identity.services
 {
     public class AuthService(IUserService userService, IJwtBuilder jwtBuilder) : IAuthService
     {
@@ -21,7 +21,7 @@ namespace identityapi.services
                 return TypedResults.Unauthorized();
             }
 
-            var token = jwtBuilder.GetToken(user);
+            var token = jwtBuilder.GetToken(user.Id.ToString());
 
             return TypedResults.Ok(token);
         }

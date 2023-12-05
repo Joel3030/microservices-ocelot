@@ -1,0 +1,13 @@
+/Users/joelencarnacion/Desktop/dotnet/microservices-ocelot/src/middlewares/Middleware/obj/Debug/net8.0/Middleware.csproj.AssemblyReference.cache
+/Users/joelencarnacion/Desktop/dotnet/microservices-ocelot/src/middlewares/Middleware/obj/Debug/net8.0/Middleware.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joelencarnacion/Desktop/dotnet/microservices-ocelot/src/middlewares/Middleware/obj/Debug/net8.0/Middleware.AssemblyInfoInputs.cache
+/Users/joelencarnacion/Desktop/dotnet/microservices-ocelot/src/middlewares/Middleware/obj/Debug/net8.0/Middleware.AssemblyInfo.cs
+/Users/joelencarnacion/Desktop/dotnet/microservices-ocelot/src/middlewares/Middleware/obj/Debug/net8.0/Middleware.csproj.CoreCompileInputs.cache
+/Users/joelencarnacion/Desktop/dotnet/microservices-ocelot/src/middlewares/Middleware/obj/Debug/net8.0/Middleware.sourcelink.json
+/Users/joelencarnacion/Desktop/dotnet/microservices-ocelot/src/middlewares/Middleware/bin/Debug/net8.0/Middleware.deps.json
+/Users/joelencarnacion/Desktop/dotnet/microservices-ocelot/src/middlewares/Middleware/bin/Debug/net8.0/Middleware.dll
+/Users/joelencarnacion/Desktop/dotnet/microservices-ocelot/src/middlewares/Middleware/bin/Debug/net8.0/Middleware.pdb
+/Users/joelencarnacion/Desktop/dotnet/microservices-ocelot/src/middlewares/Middleware/obj/Debug/net8.0/Middleware.dll
+/Users/joelencarnacion/Desktop/dotnet/microservices-ocelot/src/middlewares/Middleware/obj/Debug/net8.0/refint/Middleware.dll
+/Users/joelencarnacion/Desktop/dotnet/microservices-ocelot/src/middlewares/Middleware/obj/Debug/net8.0/Middleware.pdb
+/Users/joelencarnacion/Desktop/dotnet/microservices-ocelot/src/middlewares/Middleware/obj/Debug/net8.0/ref/Middleware.dll

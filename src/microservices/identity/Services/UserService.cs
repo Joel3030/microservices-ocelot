@@ -4,15 +4,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using AutoMapper;
-using identityapi.DTOs;
-using identityapi.Entities;
-using identityapi.Services;
+using identity.DTOs;
+using identity.Entities;
+using identity.Services;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.VisualBasic;
 
-namespace identityapi.services
+namespace identity.services
 {
 
     public class UserService(ApplicationDbContext context, IMapper mapper) : IUserService

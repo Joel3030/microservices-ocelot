@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using AutoMapper;
-using identityapi.DTOs;
-using identityapi.Entities;
+using identity.DTOs;
+using identity.Entities;
 
-namespace identityapi.utils
+namespace identity.utils
 {
     public class AutoMapperProfile : Profile
     {
